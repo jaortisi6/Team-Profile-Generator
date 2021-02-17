@@ -10,11 +10,11 @@ const { hasUncaughtExceptionCaptureCallback } = require('process');
 
 // passed test
 
-// const testManager = new Manager('Joe', 'jaortisi@gmail.com', '6', 'manager', 6)
+// const testManager = new Manager('Joe', 'jaortisi@gmail.com', 6, 'manager', 6)
 
 // failed test
 
-const testManager = new Manager('J', 'jaortisi@gmai.com', 6, 'employee', 'jaortisi')
+const testManager = new Manager('J', 'jaortisi@gmai.com', 6, 'employee', 'jaortisi6')
 
 test('has a name', () => {
     expect(testManager.name).toEqual(expect.any(String))
