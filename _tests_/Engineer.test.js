@@ -8,7 +8,7 @@ const Engineer = require('../lib/Engineer');
 // test for name, email, id, role validity
 
 
-const testEngineer = new Engineer("neil", "ndino@gmail.com", 3 , "engineer", "ngdino")
+const testEngineer = new Engineer("Joe", "jaortisi@gmail.com", 6, "engineer", "jaortisi6")
 
 test('has a name', () => {
     expect(testEngineer.name).toEqual(expect.any(String))
