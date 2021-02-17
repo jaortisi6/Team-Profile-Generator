@@ -9,7 +9,7 @@ const Intern = require('../lib/Intern');
 // test for name, email, id, role validity
 
 
-const testIntern = new Intern("neil", "ndino@gmail.com", 3 , "intern", "FSU")
+const testIntern = new Intern("Joe", "jaortisi@gmail.com", 6 , "intern", "MSU")
 
 test('has a name', () => {
     expect(testIntern.name).toEqual(expect.any(String))
