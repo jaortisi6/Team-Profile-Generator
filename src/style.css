@@ -1,5 +1,5 @@
 body{
-    background-color: rgba(255, 219, 181, 1);
+    background-color: #18453B;
 }
 .navbar-header {
     float: left;
@@ -12,11 +12,13 @@ body{
     font-size: 48px;}
 
 .navbar{
-    background: rgba(45, 48, 71, 0.925);
-    color: rgba(224, 164, 88, 1);
+    background: darkgray;
+    color: #18453B;
 }
 
 .card{
+    background: darkgray;
+    color: #18453B;
     margin: 20px;
     padding: 0;
 }
@@ -24,11 +26,12 @@ body{
 
 
 .card-header{
-    background: rgba(65, 157, 120, 0.582);
+    background: darkgray;
+    color: #18453B;
 }
 
 .list-group{
     margin: 10px;
-    border: solid 2px rgba(128, 128, 128, 0.205);
+    border: solid 2px black;
     
 }
