@@ -1,1 +1,9 @@
-# Team-Profile-Generator
+## Team-Profile-Generator
+
+# Description
+
+This application will generate profile cards for team members based on input enterd by the user. Each card will display information significant to the job type the team member holds.
+
+# Screenshot
+
+![Team Profile Generator Screenshot](assets/Screenshot1.PNG)
