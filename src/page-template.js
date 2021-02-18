@@ -59,7 +59,7 @@ let GenerateTeam = teamArr => {
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Team Members</title>
+        <title>Team Profile Generator</title>
         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
             integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
         <link rel="stylesheet" href="style.css">
@@ -70,7 +70,7 @@ let GenerateTeam = teamArr => {
     <body>
         <nav class="navbar">
             <div class="navbar-header">
-                <span class="navbar-brand mb-0 h1">My Team</span>
+                <span class="navbar-brand mb-0 h1">Team Members</span>
             </div>
         </nav>
     
