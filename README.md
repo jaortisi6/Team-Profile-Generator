@@ -7,3 +7,7 @@ This application will generate profile cards for team members based on input ent
 # Screenshot
 
 ![Team Profile Generator Screenshot](assets/Screenshot1.PNG)
+
+# Sample HTML File
+
+[Sample HTML File](dist\index.html)
