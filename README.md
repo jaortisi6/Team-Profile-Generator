@@ -14,3 +14,4 @@ Sample HTML File can be found in the dist folder above.
 
 # Walkthrough
 
+[Walkthrough](http://youtu.be/GsXKSctU6Hk?hd=1)
