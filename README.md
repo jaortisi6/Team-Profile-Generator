@@ -10,4 +10,7 @@ This application will generate profile cards for team members based on input ent
 
 # Sample HTML File
 
-[Sample HTML File](dist\index.html)
+Sample HTML File can be found in the dist folder above.
+
+# Walkthrough
+
